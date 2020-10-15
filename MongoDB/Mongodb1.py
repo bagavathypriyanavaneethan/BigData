@@ -31,4 +31,5 @@ record=[{
         'interest':'Data science II'
         }]
 
+
 information.insert_many(record)
